@@ -1,6 +1,6 @@
 {
-    "name": "tourism_places_app",
-    "short_name": "tourism_places_app",
+    "name": "BTourism",
+    "short_name": "BTourism",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
